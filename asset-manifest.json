@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ucipuc/static/css/main.19393e92.chunk.css",
+    "main.js": "/ucipuc/static/js/main.50f88ec6.chunk.js",
+    "main.js.map": "/ucipuc/static/js/main.50f88ec6.chunk.js.map",
+    "runtime~main.js": "/ucipuc/static/js/runtime~main.d5579076.js",
+    "runtime~main.js.map": "/ucipuc/static/js/runtime~main.d5579076.js.map",
+    "static/js/2.28f674e2.chunk.js": "/ucipuc/static/js/2.28f674e2.chunk.js",
+    "static/js/2.28f674e2.chunk.js.map": "/ucipuc/static/js/2.28f674e2.chunk.js.map",
+    "index.html": "/ucipuc/index.html",
+    "precache-manifest.e536a59ebcd5b98de22631986f7a3eb7.js": "/ucipuc/precache-manifest.e536a59ebcd5b98de22631986f7a3eb7.js",
+    "service-worker.js": "/ucipuc/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/ucipuc/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/ucipuc/static/media/logo.5d5d9eef.svg"
+  }
+}
